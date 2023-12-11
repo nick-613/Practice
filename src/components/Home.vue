@@ -22,12 +22,12 @@
       </div>
     </div>
     <div class="rightcolumn">
-      <div class="card hover:shadow-lg hover:shadow-black transition-all rounded-lg">
+      <RouterLink to ="About"><div class="card hover:shadow-lg hover:shadow-black transition-all rounded-lg">
         <h2 style="color: black;">About Me</h2>
         <!-- <div class="fakeimg" style="height:100px;">Image</div> -->
         <div class ="flex items-center justify-center"><img src = "./pics/Cass.png"></div>
         <p style="color: black;">Some text about me in culpa qui officia deserunt mollit anim..</p>
-      </div>
+      </div></RouterLink>
       <div class="card rounded-lg">
         <h3 style="color: black;">Popular Posts</h3>
         <RouterLink to ="/Travel"><div class ="hover:shadow-lg hover:shadow-black transition-all"><img src ="./pics/Forks.jpg">My Dream Trip...</div></RouterLink><br>

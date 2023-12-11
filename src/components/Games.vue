@@ -1,12 +1,12 @@
 <template>
     <div class="header">
-      <h2 style="color: black;" class = "text-left">FOOD REVIEWS</h2>
-<h6 style="color: black;" class = "text-left text-xl">Some dishes I've tried out</h6>
+      <h2 style="color: black;" class = "text-left">GAMES</h2>
+<h6 style="color: black;" class = "text-left text-xl">My top games of the year!</h6>
   </div>
   <div class = "row">
     <div class = "leftcolumn2">
-  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
-    <h1 class = "mb-2 py-2 px-2" style="color: black;">Game 1</h1>
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all rounded-lg">
+    <h1 class = "mb-2 py-2 px-2" style="color: black;">Lethal Company</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style ="color:black" class = "text-left">
   
@@ -20,10 +20,10 @@ Environmental hazards: Players must navigate through hazardous environments cont
 Traps and puzzles: The abandoned facilities are filled with deadly traps and challenging puzzles that players must overcome to progress.
 Monsters: The game features a variety of monstrous creatures that stalk and attack players, adding a constant element of tension and fear.</div>
   </div>
-  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
-    <h1 class = "mb-2 py-2 px-2" style="color: black;">Game 2</h1>
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all rounded-lg">
+    <h1 class = "mb-2 py-2 px-2" style="color: black;">Spiderman 2 (2023)</h1>
     <!-- <div style="color:black;">I loved this food </div> -->
-    <div style="color: black;" class = "text-left">Insomniac's Spider-Man 2: A Web of Thrills and Responsibility
+    <div style="color: black;" class = "text-left">
 Insomniac's Spider-Man 2, released in October 2023, builds upon the critically acclaimed success of its predecessor, offering a thrilling adventure filled with web-slinging action, compelling storylines, and new challenges for Peter Parker and Miles Morales.
 
 A Duality of Heroes:
@@ -32,11 +32,10 @@ The game features a dual protagonist narrative, allowing players to switch betwe
   
   </div>
   </div>
-  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
-    <h1 class = "mb-2 py-2 px-2" style="color: black;">Game 3</h1>
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all rounded-lg">
+    <h1 class = "mb-2 py-2 px-2" style="color: black;">Mortal Kombat 1 (2023)</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style="color: black;" class = "text-left">
-Mortal Kombat 1 (2023): A Reboot with a New Era
 Mortal Kombat 1, released in September 2023, marks a bold reboot for the beloved fighting game franchise. Developed by NetherRealm Studios and published by Warner Bros. Games, this new installment revives the iconic Mortal Kombat universe with a fresh perspective, while retaining the core elements that made the series a global phenomenon.
 
 Reinventing the Classics:
@@ -45,8 +44,8 @@ Mortal Kombat 1 revisits the iconic tournament but takes place in a timeline alt
   </div>
   </div>
   <div class = "rightcolumn2">
-    <div class ="specialLC hover:shadow-lg hover:shadow-black transition-all mb-3"></div>
-    <div class ="specialspooderman hover:shadow-lg hover:shadow-black transition-all mb-3"></div>    
+    <div class ="specialLC hover:shadow-lg hover:shadow-black transition-all mb-33"></div>
+    <div class ="specialspooderman hover:shadow-lg hover:shadow-black transition-all mb-15"></div>    
     <div class ="specialmk1 hover:shadow-lg hover:shadow-black transition-all mb-3"></div>
   </div>
   </div>

@@ -1,0 +1,19 @@
+<template>
+     <div class="row">
+        <div class="leftcolumn">
+      <h2 style="color: black;" class = "text-left">About Me</h2>
+<h6 style="color: black;" class = "text-left text-xl">From the life of Preston Palmer</h6>
+  </div>
+  <div class ="rightcolumn3 founder"></div>
+</div>
+  <div class = "card text-left" style="color: black;">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum nibh tellus molestie nunc non. Tellus mauris a diam maecenas. Magna fringilla urna porttitor rhoncus dolor purus non enim praesent. Non curabitur gravida arcu ac tortor dignissim convallis. Neque volutpat ac tincidunt vitae semper. Id ornare arcu odio ut sem nulla pharetra. Cras tincidunt lobortis feugiat vivamus at augue eget arcu. Eget magna fermentum iaculis eu non diam. Diam sit amet nisl suscipit. Lorem mollis aliquam ut porttitor. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Lobortis feugiat vivamus at augue eget arcu. Aliquet risus feugiat in ante metus dictum. Libero justo laoreet sit amet cursus. Hendrerit dolor magna eget est lorem ipsum dolor. Nibh mauris cursus mattis molestie a iaculis at. Quis varius quam quisque id diam. Quis vel eros donec ac odio tempor orci.
+
+    <p>Congue eu consequat ac felis donec. Et molestie ac feugiat sed. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Purus gravida quis blandit turpis cursus in hac habitasse. Turpis egestas integer eget aliquet nibh praesent tristique magna. Gravida rutrum quisque non tellus orci ac auctor augue mauris. Est placerat in egestas erat imperdiet sed euismod nisi. At varius vel pharetra vel turpis nunc eget. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Eget dolor morbi non arcu risus. Amet porttitor eget dolor morbi non. Pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Orci ac auctor augue mauris augue. Urna condimentum mattis pellentesque id nibh. Id semper risus in hendrerit gravida rutrum. Quam pellentesque nec nam aliquam sem et tortor. Vitae purus faucibus ornare suspendisse sed nisi lacus sed.</p>
+
+    <p>Amet tellus cras adipiscing enim eu turpis egestas pretium. Urna neque viverra justo nec. Risus pretium quam vulputate dignissim suspendisse in. Nec feugiat nisl pretium fusce id velit ut tortor. Vitae justo eget magna fermentum iaculis eu non. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Egestas maecenas pharetra convallis posuere morbi leo urna molestie. Aliquam etiam erat velit scelerisque in. Lectus proin nibh nisl condimentum id. Nisl condimentum id venenatis a condimentum vitae sapien. Massa tincidunt dui ut ornare. In hac habitasse platea dictumst. Amet purus gravida quis blandit turpis cursus in hac. Semper auctor neque vitae tempus quam pellentesque. Molestie nunc non blandit massa enim nec.</p>
+
+<p>Massa eget egestas purus viverra accumsan. Eget nulla facilisi etiam dignissim diam quis enim. Et malesuada fames ac turpis egestas maecenas pharetra convallis. Gravida dictum fusce ut placerat orci nulla. Sit amet consectetur adipiscing elit ut. Egestas dui id ornare arcu. Bibendum arcu vitae elementum curabitur vitae. Sed felis eget velit aliquet sagittis id. Ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Porta non pulvinar neque laoreet suspendisse. Et egestas quis ipsum suspendisse ultrices. Amet purus gravida quis blandit turpis. Adipiscing at in tellus integer feugiat. Molestie a iaculis at erat pellentesque adipiscing commodo elit at. Pharetra convallis posuere morbi leo urna. Turpis cursus in hac habitasse platea dictumst.</p>
+</div>
+  
+  </template>
