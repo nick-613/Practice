@@ -1,10 +1,11 @@
 <template>
     <div class="header">
-  <h2 style="color: black;">My Workout Routine</h2>
+      <h2 style="color: black;" class = "text-left">FOOD REVIEWS</h2>
+<h6 style="color: black;" class = "text-left text-xl">Some dishes I've tried out</h6>
   </div>
   <div class = "row">
     <div class = "leftcolumn2">
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Workout 1</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style ="color:black;" class = "text-left">
@@ -17,7 +18,7 @@ Bench: A sturdy weight bench with adjustable back support.
 Barbell: A weighted bar with adequate weight plates.
 Weight clips:.</div>
   </div>
-  <div  class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div  class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Workout 2</h1>
     <!-- <div style="color:black;">I loved this food </div> -->
     <div style="color: black;" class = "text-left">Mastering the Pull-Up: A Step-by-Step Guide
@@ -31,7 +32,7 @@ Warm-up: Before attempting pull-ups, perform light cardio like jogging or jumpin
   
   </div>
   </div>
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Workout 3</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style="color: black;" class = "text-left">Mastering the Squat: A Step-by-Step Guide

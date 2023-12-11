@@ -1,10 +1,11 @@
 <template>
-  <div class="header mb-4">
-<h2 style="color: black;">FOOD REVIEWS</h2>
+  <div class="header">
+<h2 style="color: black;" class = "text-left">FOOD REVIEWS</h2>
+<h6 style="color: black;" class = "text-left text-xl">Some dishes I've tried out</h6>
 </div>
 <div class = "row">
   <div class = "leftcolumn2">
-<div class ="hover:shadow-lg hover:shadow-black transition-all">
+<div class ="card hover:shadow-lg hover:shadow-black transition-all">
   <h1 class = "mb-2 py-2 px-2" style="color: black;">Sauerkraut</h1>
   <div style="color:black;">I hated this food </div>
   <div style ="color:black" class = "text-left">
@@ -12,14 +13,14 @@ As a self-proclaimed connoisseur of cuisine, I must admit, I approached the humb
 
 The sauerkraut I encountered was a pale, glistening concoction, its shredded strands suspended in a cloudy brine. Its aroma, while undeniably pungent, was not as offensive as I had feared. Hints of vinegar, caraway, and a touch of sweetness wafted up, piquing my curiosity.</div>
 </div>
-<div class ="hover:shadow-lg hover:shadow-black transition-all mb-9">
+<div class ="card hover:shadow-lg hover:shadow-black transition-all mb-9">
   <h1 class = "mb-2 py-2 px-2" style="color: black;">Hot Dogs</h1>
   <div style="color:black;">I loved this food </div>
   <div style="color: black;" class = "text-left">I recently had the pleasure of trying a hot dog from a local hot dog stand. The hot dog was cooked to perfection, with a nice snap to the casing and a juicy, flavorful interior. The bun was soft and fluffy, and it was topped with a generous amount of ketchup and mustard.
 
 </div>
 </div>
-<div  class ="hover:shadow-lg hover:shadow-black transition-all">
+<div  class ="card hover:shadow-lg hover:shadow-black transition-all">
   <h1 class = "mb-2 py-2 px-2" style="color: black;">Beef Burrito</h1>
   <div style="color:black;">I hated this food </div>
   <div style="color: black;" class = "text-left">I ordered the Shredded Beef Burrito; couldn't wait to eat it, and at first, it tasted great! Then I noticed a wetness on my jeans. Had to pour the waterfall of grease outside the door. Moral of the story: make sure you have a gallon jug with you.. just in case.</div>

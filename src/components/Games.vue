@@ -1,10 +1,11 @@
 <template>
     <div class="header">
-  <h2 style="color: black;">Game REVIEWS</h2>
+      <h2 style="color: black;" class = "text-left">FOOD REVIEWS</h2>
+<h6 style="color: black;" class = "text-left text-xl">Some dishes I've tried out</h6>
   </div>
   <div class = "row">
     <div class = "leftcolumn2">
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Game 1</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style ="color:black" class = "text-left">
@@ -19,7 +20,7 @@ Environmental hazards: Players must navigate through hazardous environments cont
 Traps and puzzles: The abandoned facilities are filled with deadly traps and challenging puzzles that players must overcome to progress.
 Monsters: The game features a variety of monstrous creatures that stalk and attack players, adding a constant element of tension and fear.</div>
   </div>
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Game 2</h1>
     <!-- <div style="color:black;">I loved this food </div> -->
     <div style="color: black;" class = "text-left">Insomniac's Spider-Man 2: A Web of Thrills and Responsibility
@@ -31,7 +32,7 @@ The game features a dual protagonist narrative, allowing players to switch betwe
   
   </div>
   </div>
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Game 3</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style="color: black;" class = "text-left">

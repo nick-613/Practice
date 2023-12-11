@@ -1,10 +1,11 @@
 <template>
     <div class="header">
-  <h2 style="color: black;">Song REVIEWS</h2>
+      <h2 style="color: black;" class = "text-left">FOOD REVIEWS</h2>
+<h6 style="color: black;" class = "text-left text-xl">Some dishes I've tried out</h6>
   </div>
   <div class = "row">
     <div class = "leftcolumn2">
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Song 1</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style ="color:black" class = "text-left">
@@ -18,7 +19,7 @@ Themes:
 Possession: The song's central theme is the desire to hold onto love as a personal possession. The lyrics speak of wanting to "keep it in a cage" and "build a wall against the world," showcasing the speaker's desperate attempts to control and preserve their feelings.
 </div>
 </div>
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Song 2</h1>
     <!-- <div style="color:black;">I loved this food </div> -->
     <div style="color: black;" class = "text-left">
@@ -32,7 +33,7 @@ Desire and Loss: The song explores the desire for love and connection, but also 
   
   </div>
   </div>
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Song 3</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style="color: black;" class = "text-left">

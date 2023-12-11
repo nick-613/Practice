@@ -1,10 +1,11 @@
 <template>
     <div class="header">
-  <h2 style="color: black;">Movie REVIEWS</h2>
+      <h2 style="color: black;" class = "text-left">FOOD REVIEWS</h2>
+<h6 style="color: black;" class = "text-left text-xl">Some dishes I've tried out</h6>
   </div>
   <div class = "row">
     <div class = "leftcolumn2">
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Movie 1</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style ="color:black" class = "text-left">
@@ -15,7 +16,7 @@ Lost in the Details:
 
 The film attempts to cram the entirety of Napoleon's life into a single, overlong runtime. This results in a rushed and superficial portrayal, with key events and relationships brushed aside in favor of grand battle sequences and pageantry. The film jumps from one historical milestone to another without allowing the audience to connect with Napoleon as a person or understand the motivations behind his actions.</div>
   </div>
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Movie 2</h1>
     <!-- <div style="color:black;">I loved this food </div> -->
     <div style="color: black;" class = "text-left">Jurassic World Dominion: A Missed Opportunity for a Grand Finale
@@ -27,7 +28,7 @@ The film's story retreads familiar territory, rehashing themes of corporate gree
   
   </div>
   </div>
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-lg hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Movie 3</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style="color: black;" class = "text-left">

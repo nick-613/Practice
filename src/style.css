@@ -57,6 +57,7 @@ button:focus-visible {
 
 .card {
   padding: 2em;
+  background: #fcecdc;
 }
 
 #app {
@@ -93,7 +94,8 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: #fcecdc;
+  background: #fcb293;
+  /* background: #fcecdc; */
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -171,6 +173,8 @@ body {
    right:0;
    border-bottom:1px solid #1a1a1a;
    height: 38px;
+   opacity: 100px;
+   z-index: 1;
 }
 img {
   opacity: 0.5;

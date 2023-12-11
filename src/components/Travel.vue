@@ -1,10 +1,11 @@
 <template>
     <div class="header">
-  <h2 style="color: black;">My Recent Trips!</h2>
+      <h2 style="color: black;" class = "text-left">My Recent Trips!</h2>
+<h6 style="color: black;" class = "text-left text-xl">Some dishes I've tried out</h6>
   </div>
   <div class = "row">
     <div class = "leftcolumn2">
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Trip 1</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style ="color:black" class = "text-left">
@@ -15,7 +16,7 @@ A Town Immersed in Nature:
 
 </div>
   </div>
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Trip 2</h1>
     <!-- <div style="color:black;">I loved this food </div> -->
     <div style="color: black;" class = "text-left">Mexico City: A Vibrant Metropolis steeped in History and Culture
@@ -25,7 +26,7 @@ A Historical Tapestry:
   
   </div>
   </div>
-  <div class ="hover:shadow-lg hover:shadow-black transition-all">
+  <div class ="card hover:shadow-black transition-all">
     <h1 class = "mb-2 py-2 px-2" style="color: black;">Trip 3</h1>
     <!-- <div style="color:black;">I hated this food </div> -->
     <div style="color: black;" class = "text-left">
