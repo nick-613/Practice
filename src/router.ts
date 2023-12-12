@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from './components/Home.vue'
+import Home from './views/Home.vue'
 const routes =[
     {
         path: '/',
@@ -9,47 +9,47 @@ const routes =[
     {
         path:'/Casa',
         name: 'Casa',
-        component:() => import('./components/Home.vue')
+        component:() => import('./views/Home.vue')
     },
     {
         path:'/Food',
         name: 'Food',
-        component:() => import('./components/Food.vue')
+        component:() => import('./views/Food.vue')
     },
     {
         path:'/Travel',
         name: 'Travel',
-        component:() => import('./components/Travel.vue')
+        component:() => import('./views/Travel.vue')
     },
     {
         path:'/Movie',
         name: 'Movie',
-        component:() => import('./components/Movie.vue')
+        component:() => import('./views/Movie.vue')
     },
     {
         path:'/Music',
         name: 'Music',
-        component:() => import('./components/Music.vue')
+        component:() => import('./views/Music.vue')
     },
     {
         path:'/Workout',
         name: 'Workout',
-        component:() => import('./components/Workout.vue')
+        component:() => import('./views/Workout.vue')
     },
     {
         path:"/Store",
         name: "Store",
-        component:() => import('./components/Store.vue')
+        component:() => import('./views/Store.vue')
     },
     {
         path:"/Games",
         name: "Games",
-        component:() => import('./components/Games.vue')
+        component:() => import('./views/Games.vue')
     },
     {
         path:"/About",
         name: "About",
-        component:() => import('./components/About.vue')
+        component:() => import('./views/About.vue')
     },
 
 

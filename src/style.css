@@ -207,7 +207,7 @@ img:hover {
 .founder{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/prest.jpg);
+  background-image: url(./views/pics/prest.jpg);
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
@@ -220,7 +220,7 @@ img:hover {
 .special{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/Forks.jpg);
+  background-image: url(./views/pics/Forks.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -229,7 +229,7 @@ img:hover {
 .specialcdmx{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/CDMX.jpg);
+  background-image: url(./views/pics/CDMX.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -238,7 +238,7 @@ img:hover {
 .specialgtav{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/gtamod.jpg);
+  background-image: url(./views/pics/gtamod.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -248,7 +248,7 @@ img:hover {
 .specialsaur{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/suarkraut.jpg);
+  background-image: url(./views/pics/suarkraut.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -257,7 +257,7 @@ img:hover {
 .specialHD{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/hotdog.jpg);
+  background-image: url(./views/pics/hotdog.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -266,7 +266,7 @@ img:hover {
 .specialBurr{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/Recipe-Beef-Burritos-scaled.jpg);
+  background-image: url(./views/pics/Recipe-Beef-Burritos-scaled.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -276,7 +276,7 @@ img:hover {
 .specialLC{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/LC.jpg);
+  background-image: url(./views/pics/LC.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -285,7 +285,7 @@ img:hover {
 .specialspooderman{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/spierman2.jpg);
+  background-image: url(./views/pics/spierman2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -294,7 +294,7 @@ img:hover {
 .specialmk1{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/mortal-kombat-1-fire-god-liu-kang.webp);
+  background-image: url(./views/pics/mortal-kombat-1-fire-god-liu-kang.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -304,7 +304,7 @@ img:hover {
 .specialBP{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/BP.jpg);
+  background-image: url(./views/pics/BP.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -313,7 +313,7 @@ img:hover {
 .specialPU{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/PullUP.jpg);
+  background-image: url(./views/pics/PullUP.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -322,7 +322,7 @@ img:hover {
 .specialsqaut{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/Squat.jpg);
+  background-image: url(./views/pics/Squat.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -332,7 +332,7 @@ img:hover {
 .specialDino{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/Dino.jpg);
+  background-image: url(./views/pics/Dino.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -341,7 +341,7 @@ img:hover {
 .specialNap{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/Napoleon.jpg);
+  background-image: url(./views/pics/Napoleon.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -350,7 +350,7 @@ img:hover {
 .specialmiles{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/Spider-Man-Across-Spider-Verse-Cast.webp);
+  background-image: url(./views/pics/Spider-Man-Across-Spider-Verse-Cast.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -360,7 +360,7 @@ img:hover {
 .specialmitski{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/Mitski.jpg);
+  background-image: url(./views/pics/Mitski.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -369,7 +369,7 @@ img:hover {
 .speciallana{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/ldr.jpg);
+  background-image: url(./views/pics/ldr.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -378,7 +378,7 @@ img:hover {
 .speciallmfao{
   height: 200px;
   width: 147px;
-  background-image: url(./components/pics/party-rock-anthem.jpg);
+  background-image: url(./views/pics/party-rock-anthem.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
